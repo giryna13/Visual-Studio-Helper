@@ -1,6 +1,6 @@
 # Visual-Studio-Helper
 
-Creating Empty Solutions
+# Creating Empty Solutions
 To create an empty solution
 On the File menu, click New and then click New Project.
 In the left pane, select Installed, select Other Project Types, and then select Visual Studio Solutions from the expanded list.
